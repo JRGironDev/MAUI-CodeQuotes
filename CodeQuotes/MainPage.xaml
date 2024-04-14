@@ -4,12 +4,22 @@
              x:Class="CodeQuotes.MainPage">
 
     <Grid BackgroundColor="Navy">
+        <Grid.Background>
+            <LinearGradientBrush 
+                EndPoint="0,1">
+                <GradientStopCollection>
+                    <GradientStop Color="DarkBlue" Offset="0" />
+                    <GradientStop Color="LightBLue" Offset="1" />
+                </GradientStopCollection>
+            </LinearGradientBrush>
+        </Grid.Background>
         <Grid 
             Margin="25"
             RowDefinitions=".8*, .2*">
             <Label 
                 Text="They don't make bugs like Bunny anymore. -Olav Mjelde"
                 FontSize="50"
+                FontFamily="Roboto"
                 TextColor="White"
                 HorizontalOptions="Center"
                 VerticalOptions="Center" />
