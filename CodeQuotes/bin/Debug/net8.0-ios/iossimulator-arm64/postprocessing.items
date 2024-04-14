@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="CodeQuotes.app/CodeQuotes">
+      <BCSymbolMapName>CodeQuotes.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>CodeQuotes.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>/Users/josequinonez/Codes/CodeQuotes/CodeQuotes/obj/Debug/net8.0-ios/iossimulator-arm64/mtouch-symbols.list</SymbolFile>
+      <DSymName>CodeQuotes.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/josequinonez/Codes/CodeQuotes/CodeQuotes</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>
