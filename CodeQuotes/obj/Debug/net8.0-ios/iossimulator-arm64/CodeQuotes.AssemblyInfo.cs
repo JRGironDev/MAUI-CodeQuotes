@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CodeQuotes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+432abf0e5ee0a16c32baabe6256f628b9d8d76ec")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+443ef549b87bda05a75a311c3c23063305ed75dd")]
 [assembly: System.Reflection.AssemblyProductAttribute("CodeQuotes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CodeQuotes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
